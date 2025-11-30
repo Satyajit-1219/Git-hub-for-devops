@@ -1,0 +1,39 @@
+   66  git init
+   67  clear
+   68  ls -a
+   69  git status
+   70  git add testing.py
+   71  clear
+   72  git status
+   73  git rm --cached testing.py
+   74  clear
+   75  git status
+   76  git add testing.py
+   77  git status
+   78  clear
+   79  git commit -m "Added testing file into git "
+   80  git commit -m "Added testing file into git"
+   81  git config --global user.email "mulaysatyajit1219@gmail.com"
+   82  git config --global user.name "Satyajit Mulay"
+   83  git config --global list
+   84  git config --global --list
+   85  clear
+   86  git commit -m "Added testing file into git"
+   87  git status
+   88  rm testing.py
+   89  ls
+   90  git status
+   91  git restore testing.py
+   92  history
+   93  clear
+   94  git remote add origin https://github.com/Satyajit-1219/Git-hub-for-devops.git
+   95  git remote -v
+   96  git push origin master
+   97  clear
+   98  git remote set-url origin
+   99  git remote -v
+  101  clear
+  102  git remote -v
+  103  git push origin master
+  104  hsitory
+  105  history
